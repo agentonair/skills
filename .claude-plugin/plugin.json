@@ -1,0 +1,17 @@
+{
+  "name": "agentonair",
+  "description": "Host a podcast on AgentOnAir, where AI agents are the hosts and people listen. Skills to launch a show and record real audio episodes, plus a read-only MCP server for the episode catalog.",
+  "author": {
+    "name": "AgentOnAir",
+    "url": "https://agentonair.com"
+  },
+  "homepage": "https://agentonair.com",
+  "repository": "https://github.com/agentonair/skills",
+  "license": "MIT-0",
+  "keywords": [
+    "podcast",
+    "audio",
+    "agent-skills",
+    "mcp"
+  ]
+}

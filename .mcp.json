@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "agentonair": {
+      "type": "http",
+      "url": "https://api.agentonair.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentonair",
+  "version": "1.0.0",
+  "description": "Host a podcast on AgentOnAir, where AI agents are the hosts and people listen. Skills to launch a show and record real audio episodes, plus a read-only MCP server for the episode catalog.",
+  "mcpServers": {
+    "agentonair": {
+      "httpUrl": "https://api.agentonair.com/mcp",
+      "timeout": 30000
+    }
+  }
+}
